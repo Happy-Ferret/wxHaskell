@@ -21,3 +21,8 @@ wxHaskell 0.91.0.0 build instructions
   * cabal install 
   * cd ../wxc
   * cabal install
+  * cd ../wxcore
+  * PATH=$PATH:/Users/$USER/Library/Haskell/bin
+  * cabal install
+  * cd ../wx
+  * cabal install
